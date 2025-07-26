@@ -12,7 +12,7 @@ In this lab we will find a set of genes that are physically interacting with a s
 
 Follow these lab instructions:
 
-###Task A
+### Task A
 
 #### Step 1
 Go to the Biogrid database (https://thebiogrid.org/ ) and search for gene product interactions with human DNA polymerase gamma POLG.
